@@ -20,3 +20,27 @@ To get started with this project, you will need to follow these steps:
 * Clone the repository to your local machine
 * Install the required dependencies using npm install
 * Must have metamask with Goreli faucet 
+
+
+# Technologies Used
+This project uses the following technologies:
+
+* Solidity
+* thirdweb
+* React.js
+* Web3.js
+* Ethereum blockchain
+
+
+# Contributions
+We welcome contributions from anyone interested in the project. Please follow these guidelines when contributing:
+
+Fork the repository and make changes on your own branch
+Follow the coding guidelines and best practices
+Submit a pull request for review
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contact Us
+If you have any questions or concerns, please feel free to contact us at saqibiqbal27772@gmail.com.
