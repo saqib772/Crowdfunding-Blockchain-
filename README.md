@@ -30,6 +30,7 @@ This project uses the following technologies:
 * React.js
 * Web3.js
 * Ethereum blockchain
+* Javascript
 
 
 # Contributions
