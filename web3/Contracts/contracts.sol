@@ -67,3 +67,5 @@ contract CrowdFunding {
         return allCampaigns;
     }
 }
+
+//For line by Line Explanation Visit https://medium.com/@saqib777/want-to-make-a-crowdfunding-platform-on-blockchain-are-you-ready-1f0fddb371
